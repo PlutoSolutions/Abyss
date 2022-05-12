@@ -23,12 +23,14 @@ I was hoping that the security was improved but literally nothing was changed si
 </div>
 
 1. Download package.zip from the [releases page](https://github.com/PlutoSolutions/Abyss/releases)
-0. Put everything into your .minecraft/mods folder
+0. Put everything into your .minecraft/mods folder (NOT .minecraft/mods/1.12.2)
 0. Start the game
 
 <div align="center">
   
-If the crack fails to load and rocket drm shits out some string errors then your java is shit (download proper one from [here](https://java.com/en/download/))
+If the crack fails to load and rocket drm shits out some string errors then your java is shit
+  
+(download proper one from [here](https://java.com/en/download/))
   
 # [ issues ]
   
@@ -36,7 +38,7 @@ If the crack fails to load and rocket drm shits out some string errors then your
 
 1. This client doesn't work with Konas for some reason (non cracked one)
 0. Also doesn't work with old versions of gamesense
-0. idk i forgot who cares
+2. idk i forgot who cares
 
 <div align="center">
   
@@ -46,6 +48,6 @@ If the crack fails to load and rocket drm shits out some string errors then your
 
 + Ciruu, cout970 and some other faggot - making this paste
 + [Crystallinqq](https://github.com/Crystallinqq) - making the original 1.2.1 crack
-+ [mrnv](https://github.com/mr-nv) - reversing Crystallinqq's crack and updating it to latest version of Abyss
++ [mrnv](https://github.com/mr-nv) - reversing Crystallinqq's crack and updating it to the latest version of Abyss
 + [maywr](https://github.com/maywr) - making the logo
 + hameha/obnal2004/hahme69 - providing an account
