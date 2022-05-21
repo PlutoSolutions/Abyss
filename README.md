@@ -30,7 +30,7 @@ I was hoping that the security was improved but literally nothing was changed si
   
 If the crack fails to load and rocket drm shits out some string errors or crashes then your java is too new
   
-jdk1.8.0_141 works, download it from [here](https://mega.nz/file/fOoEAQBa#xowIZlFHlfhGLI-XlBGyvx2OkC856r3jaAOt3hewJkw)
+jdk1.8.0_241 works, download it from [here](https://mega.nz/file/fOoEAQBa#xowIZlFHlfhGLI-XlBGyvx2OkC856r3jaAOt3hewJkw)
   
 # [ issues ]
   
