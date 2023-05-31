@@ -46,7 +46,7 @@ jdk1.8.0_241 works, download it from [here](https://mega.nz/file/fOoEAQBa#xowIZl
 
 </div>
 
-+ Ciruu, cout970 and some other faggot - making this paste
++ Ciruu, cout970 and some other guy - creating Abyss
 + [Crystallinqq](https://github.com/Crystallinqq) - making the original 1.2.1 crack
 + [mrnv](https://github.com/mr-nv) - reversing Crystallinqq's crack and updating it to the latest version of Abyss
 + [maywr](https://github.com/maywr) - making the logo
